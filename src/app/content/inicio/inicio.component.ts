@@ -1,4 +1,6 @@
 import { Component } from '@angular/core';
+import { CargarscriptsService } from 'src/app/cargarscripts.service';
+
 
 @Component({
   selector: 'app-inicio',
@@ -6,5 +8,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./inicio.component.css']
 })
 export class InicioComponent {
-
+ 
 }
