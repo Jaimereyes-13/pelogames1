@@ -17,9 +17,7 @@ constructor (private cargarscripts: CargarscriptsService){
     "assets/vendor/isotope-layout/isotope.pkgd.min.js",
     "assets/vendor/swiper/swiper-bundle.min.js",
     "assets/vendor/php-email-form/validate.js",
-  
     "assets/js/main.js"
-
   ])
 }
   
